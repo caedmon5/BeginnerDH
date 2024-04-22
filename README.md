@@ -5,7 +5,7 @@ This is a github template that you can use to practice HTML and CSS coding. Our 
 
 Your first step to using it is to create your own repository from this template using [this guide](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template).
 
-The second is to turn on Github pages using [this guide](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).
+The second is to turn on GitHub pages using [this guide](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).
 
 The third is to start editing the page(s) in your local repository.
 

@@ -13,3 +13,4 @@ The third is to start editing the page(s) in your local repository.
 
 * [https://www.w3schools.com/html/html_intro.asp](W3CSchools guide to HTML)
 * [https://www.w3schools.com/css/default.asp](W3CSchools guide to CSS)
+* [https://lipsum.com/](Lipsum generator)

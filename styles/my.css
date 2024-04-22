@@ -1,9 +1,23 @@
 body
 {
-    margin:auto;
-    max-width: 70em;
-    width:auto;
-    padding-left: 3em;
-    padding-right: 3em;
+	margin:auto;
+	max-width: 70em;
+	width:auto;
+	padding-left: 3em;
+	padding-right: 3em;
+}
+
+img.left
+{
+	font-size: smaller; 
+	padding-top: .5em; 
+	padding-bottom: .5em; 
+	position: relative; 
+	float: left; 
+	padding-right: .5em; 
+	border: none; 
+	max-width: 15em; 
+	text-align: center; 
+	word-wrap: break-word;
 }
 
